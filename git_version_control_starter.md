@@ -1,5 +1,7 @@
 _New to working with a team on git and github? Start here_
 
+TL;DR Don't commit to `main`, always use a branch, then create a pull request
+
 ### GUI vs Command Line
 
 Although it's tempting to use the GUI on github.com or on the github desktop app, the sooner you start using the command line for all git commands, the sooner you will be comfortable with it. Believe it or not, you actually have more control when using the command line and are able to do more advanced git commands. So it might be intimidating at first, but in the long run it will be faster and easier.
